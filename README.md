@@ -38,10 +38,12 @@ Prepare the application for deployment, specifying dependencies and organizing t
 Ensure the application's correctness by creating and running comprehensive unit tests.
 
 ### Task 6: Deploy as a Web Application using Flask 🚀
+![6b_deployment_test](https://github.com/Arshpreet-Singh-1/Emotion-detection/assets/84027648/eac527c8-09eb-4e51-a871-fc45eb00c0a7)
 
 Utilize Flask to transform the application into a user-friendly web service, with routes for input and result display.
 
 ### Task 7: Incorporate Error Handling ⚠️
+![7c_error_handling_interface](https://github.com/Arshpreet-Singh-1/Emotion-detection/assets/84027648/383300d6-3b87-4726-83fe-da894d7dfc3c)
 
 Implement graceful error handling for situations like API call failures or invalid inputs.
 
